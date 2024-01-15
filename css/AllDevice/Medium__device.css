@@ -1,0 +1,14 @@
+@media (max-width: 767.98px) {
+  .item__title {
+    font-size: 36px;
+  }
+  .Right__title {
+    font-size: 45px;
+  }
+  .copyright {
+    font-size: 13px;
+  }
+  .menu__list {
+    font-size: 11px;
+  }
+}

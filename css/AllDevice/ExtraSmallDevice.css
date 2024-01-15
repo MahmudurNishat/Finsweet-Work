@@ -1,0 +1,48 @@
+@media (max-width: 300px) {
+  .wrapper__summary {
+    font-size: 12px;
+  }
+  .wrapper__title {
+    font-size: 30px;
+  }
+  .list {
+    font-size: 12px;
+  }
+  .item__title {
+    font-size: 20px;
+  }
+  .item__summary {
+    font-size: 11px;
+    line-height: 19px;
+  }
+  .item__link {
+    font-size: 15px;
+  }
+
+  .contact__title {
+    font-size: 15px;
+    line-height: 29px;
+  }
+  .contact__summary {
+    font-size: 11px;
+    line-height: 24px;
+  }
+
+  .buttons {
+    font-size: 15px;
+  }
+  .footer__box {
+    padding: 15px 13px;
+  }
+
+  .left__email {
+    font-size: 11px;
+  }
+
+  .Right__summary {
+    font-size: 13px;
+  }
+  .copyright {
+    font-size: 9px;
+  }
+}

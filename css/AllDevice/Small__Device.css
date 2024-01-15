@@ -1,0 +1,27 @@
+@media (max-width: 575.98px) {
+  .socialIcon {
+    margin-top: 35px !important;
+  }
+  .wrapper__title {
+    font-size: 44px;
+  }
+  .contact__title {
+    font-size: 29px;
+  }
+  .copyright {
+    font-size: 13px;
+  }
+  .menu__list {
+    font-size: 9px;
+  }
+  .item__title {
+    font-size: 32px;
+  }
+  .item__summary {
+    font-size: 10px;
+    line-height: 25px;
+  }
+  .footer__box {
+    max-width: 481px;
+  }
+}
